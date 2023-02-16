@@ -22,7 +22,7 @@
         "drupal/core-dev": "^9 || ^10",
         "drupal/devel": "^5.0 || ^4.0",
         "edgedesign/phpqa": "^1.23",
-        "metadrop/behat-contexts": "feature/drupal-10-dev",
+        "metadrop/behat-contexts": "dev-feature/drupal-10",
         "metadrop/grumphp-drupal-check": "^0",
         "metadrop/scripthor": "^1.0 || ^2",
         "phpspec/prophecy-phpunit": "^2 || ^1",
