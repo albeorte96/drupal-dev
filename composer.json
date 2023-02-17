@@ -8,12 +8,6 @@
             "email": "omar.lopesino@metadrop.net"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/albeorte96/behat-contexts.git"
-        }
-    ],
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "require": {
@@ -22,7 +16,7 @@
         "drupal/core-dev": "^9 || ^10",
         "drupal/devel": "^5.0 || ^4.0",
         "edgedesign/phpqa": "^1.23",
-        "metadrop/behat-contexts": "dev-feature/drupal-10",
+        "metadrop/behat-contexts": "^1.2",
         "metadrop/grumphp-drupal-check": "^0",
         "metadrop/scripthor": "^1.0 || ^2",
         "phpspec/prophecy-phpunit": "^2 || ^1",
